@@ -1,0 +1,9 @@
+Hello World!
+
+This file was created using the GitHub API.
+Created on: 2025-08-03 12:20:47
+
+This demonstrates:
+- Creating a folder structure
+- Adding a file with content
+- Committing changes via API
